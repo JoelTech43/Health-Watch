@@ -8,7 +8,8 @@ It is made in python with the guizero library.
 
 # Installation
 <ul>
-<li>Download or clone all of the files.</li>
+<li>Install Python 3</li>
+<li>Download or clone all of the files. (You can get a zip from <a href="https://healthwatchfitness.000webhostapp.com/index.html">here</a>)</li>
 <li>In a terminal window, type pip install guizero (or however you do it on mac or linux)</li>
 <li>Run main.pyw</li>
 </ul>
